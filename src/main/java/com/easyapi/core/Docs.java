@@ -13,7 +13,7 @@ import static com.easyapi.core.constant.CoreConstants.*;
 /**
  * docs
  * <p>
- * licence Apache 2.0,AGPL-3.0, from japidoc and doc-apis originated
+ * licence Apache 2.0,AGPL-3.0, from japidoc and easyapi originated
  **/
 public class Docs {
 
